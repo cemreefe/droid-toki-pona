@@ -1,0 +1,209 @@
+No.,English,"Toki Pona
+toki pona"
+1,I,mi
+2,you (singular),sina
+3,he,ona
+4,we,mi (mute)
+5,you (plural),sina (mute)
+6,they,ona (mute)
+7,this,ni
+8,that,ni
+9,here,lon ni
+10,there,lon ni
+11,who,jan seme
+12,what,seme
+13,where,ma seme
+14,when,tenpo seme
+15,how,kepeken nasin seme
+16,not,ala
+17,all,"ale, ali"
+18,many,mute
+19,some,mute
+20,few,lili
+21,other,ante
+22,one,wan
+23,two,tu
+24,three,tu wan
+25,four,tu tu
+26,five,luka
+27,big,suli
+28,long,suli
+29,wide,suli
+30,thick,suli
+31,heavy,suli
+32,small,lili
+33,short,lili
+34,narrow,lili
+35,thin,lili
+36,woman,meli
+37,man (adult male),mije
+38,man (human being),jan
+39,child,jan lili
+40,wife,meli
+41,husband,mije
+42,mother,mama (meli)
+43,father,mama (mije)
+44,animal,soweli
+45,fish,kala
+46,bird,waso
+47,dog,soweli
+48,louse,pipi (lawa)
+49,snake,akesi (linja)
+50,worm,pipi (linja)
+51,tree,kasi (suli)
+52,forest,ma (kasi)
+53,stick,palisa
+54,fruit,kili
+55,seed,"pan, kiwen lili kasi"
+56,leaf,(lipu) kasi
+57,root,noka kasi
+58,bark (of a tree),selo (kasi)
+59,flower,kasi (kule)
+60,grass,kasi (anpa)
+61,rope,linja
+62,skin,selo
+63,meat,(sijelo) soweli
+64,blood,telo (sijelo) loje
+65,bone,"kiwen sijelo, palisa sijelo"
+66,fat (noun),ko (sijelo)
+67,egg,"sike waso, kiwen waso"
+68,horn,palisa (kiwen) (lawa)
+69,tail,linja (monsi)
+70,feather,"len waso, lipu waso"
+71,hair,linja (lawa)
+72,head,lawa
+73,ear,kute
+74,eye,"lukin, oko"
+75,nose,nena (sinpin)
+76,mouth,uta
+77,tooth,kiwen uta
+78,tongue (organ),nena uta
+79,fingernail,kiwen pi palisa luka
+80,foot,noka
+81,leg,noka
+82,knee,nena noka
+83,hand,luka
+84,wing,"luka waso, noka waso"
+85,belly,sinpin sijelo
+86,guts,insa (sijelo)
+87,neck,noka lawa
+88,back,monsi sijelo
+89,breast,nena meli
+90,heart,pilin (insa)
+91,liver,insa (sijelo)
+92,to drink,moku
+93,to eat,moku
+94,to bite,"uta, pakala kepeken uta"
+95,to suck,"uta, moku"
+96,to spit,pana e telo tan uta
+97,to vomit,pana e ko tan insa
+98,to blow,pana e kon
+99,to breathe,insa e kon
+100,to laugh,mu musi
+101,to see,lukin
+102,to hear,kute
+103,to know,sona
+104,to think,"toki, pilin"
+105,to smell,pilin kepeken nena
+106,to fear,"pilin ike, monsuta"
+107,to sleep,lape
+108,to live,"awen, lon"
+109,to die,moli
+110,to kill,moli
+111,to fight,utala
+112,to hunt,alasa
+113,to hit,utala
+114,to cut,"tu, kipisi"
+115,to split,"tu, kipisi"
+116,to stab,"utala kepeken palisa, kipisi"
+117,to scratch,pakala kepeken luka
+118,to dig,pali e lupa
+119,to swim,tawa lon telo
+120,to fly,tawa lon kon
+121,to walk,tawa kepeken noka
+122,to come,kama
+123,to lie (as in a bed),lon
+124,to sit,lon
+125,to stand,lon
+126,to turn (intransitive),tawa sike
+127,to fall,(tawa) anpa
+128,to give,pana
+129,to hold,jo
+130,to squeeze,lili e ijo kepeken wawa
+131,to rub,luka
+132,to wash,telo
+133,to wipe,utala
+134,to pull,kama
+135,to push,pana
+136,to throw,pana
+137,to tie,wan
+138,to sew,pali e len kepeken linja
+139,to count,nanpa
+140,to say,toki
+141,to sing,kalama musi
+142,to play,musi
+143,to float,awen lon sewi telo
+144,to flow,tawa
+145,to freeze,lete
+146,to swell,kama suli
+147,sun,suno
+148,moon,mun
+149,star,mun
+150,water,telo
+151,rain,telo sewi
+152,river,"telo tawa (linja), telo nasin"
+153,lake,telo (suli)
+154,sea,telo (suli)
+155,salt,"ko, namako"
+156,stone,kiwen
+157,sand,ko
+158,dust,ko
+159,earth,ma
+160,cloud,ijo walo sewi
+161,fog,kon
+162,sky,sewi
+163,wind,kon
+164,snow,ko walo lete
+165,ice,kiwen telo
+166,smoke,kon (pimeja) (seli)
+167,fire,seli
+168,ash,ko seli
+169,to burn,seli
+170,road,nasin
+171,mountain,nena
+172,red,loje
+173,green,laso
+174,yellow,jelo
+175,white,walo
+176,black,pimeja
+177,night,tenpo pimeja
+178,day,tenpo suno
+179,year,tenpo sike (suno)
+180,warm,seli
+181,cold,lete
+182,full,"jo e ijo mute, pi ijo mute"
+183,new,sin
+184,old,sin ala
+185,good,pona
+186,bad,ike
+187,rotten,jaki
+188,dirty,jaki
+189,straight,sama palisa
+190,round,sike
+191,sharp (as a knife),kipisi
+192,dull (as a knife),kipisi ala
+193,smooth,nena ala
+194,wet,telo
+195,dry,telo ala
+196,correct,pona
+197,near,lon poka
+198,far,weka
+199,right,poka
+200,left,poka
+201,at,lon
+202,in,lon insa
+203,with,"kepeken, lon poka"
+204,and,"en, li, e"
+205,if,la
+206,because,tan
+207,name,nimi
