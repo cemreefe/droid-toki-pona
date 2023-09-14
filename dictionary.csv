@@ -1,208 +1,121 @@
-No.,English,Toki Pona
-1,I,mi
-2,you (singular),sina
-3,he,ona
-4,we,mi (mute)
-5,you (plural),sina (mute)
-6,they,ona (mute)
-7,this,ni
-8,that,ni
-9,here,lon ni
-10,there,lon ni
-11,who,jan seme
-12,what,seme
-13,where,ma seme
-14,when,tenpo seme
-15,how,kepeken nasin seme
-16,not,ala
-17,all,"ale, ali"
-18,many,mute
-19,some,mute
-20,few,lili
-21,other,ante
-22,one,wan
-23,two,tu
-24,three,tu wan
-25,four,tu tu
-26,five,luka
-27,big,suli
-28,long,suli
-29,wide,suli
-30,thick,suli
-31,heavy,suli
-32,small,lili
-33,short,lili
-34,narrow,lili
-35,thin,lili
-36,woman,meli
-37,man (adult male),mije
-38,man (human being),jan
-39,child,jan lili
-40,wife,meli
-41,husband,mije
-42,mother,mama (meli)
-43,father,mama (mije)
-44,animal,soweli
-45,fish,kala
-46,bird,waso
-47,dog,soweli
-48,louse,pipi (lawa)
-49,snake,akesi (linja)
-50,worm,pipi (linja)
-51,tree,kasi (suli)
-52,forest,ma (kasi)
-53,stick,palisa
-54,fruit,kili
-55,seed,"pan, kiwen lili kasi"
-56,leaf,(lipu) kasi
-57,root,noka kasi
-58,bark (of a tree),selo (kasi)
-59,flower,kasi (kule)
-60,grass,kasi (anpa)
-61,rope,linja
-62,skin,selo
-63,meat,(sijelo) soweli
-64,blood,telo (sijelo) loje
-65,bone,"kiwen sijelo, palisa sijelo"
-66,fat (noun),ko (sijelo)
-67,egg,"sike waso, kiwen waso"
-68,horn,palisa (kiwen) (lawa)
-69,tail,linja (monsi)
-70,feather,"len waso, lipu waso"
-71,hair,linja (lawa)
-72,head,lawa
-73,ear,kute
-74,eye,"lukin, oko"
-75,nose,nena (sinpin)
-76,mouth,uta
-77,tooth,kiwen uta
-78,tongue (organ),nena uta
-79,fingernail,kiwen pi palisa luka
-80,foot,noka
-81,leg,noka
-82,knee,nena noka
-83,hand,luka
-84,wing,"luka waso, noka waso"
-85,belly,sinpin sijelo
-86,guts,insa (sijelo)
-87,neck,noka lawa
-88,back,monsi sijelo
-89,breast,nena meli
-90,heart,pilin (insa)
-91,liver,insa (sijelo)
-92,to drink,moku
-93,to eat,moku
-94,to bite,"uta, pakala kepeken uta"
-95,to suck,"uta, moku"
-96,to spit,pana e telo tan uta
-97,to vomit,pana e ko tan insa
-98,to blow,pana e kon
-99,to breathe,insa e kon
-100,to laugh,mu musi
-101,to see,lukin
-102,to hear,kute
-103,to know,sona
-104,to think,"toki, pilin"
-105,to smell,pilin kepeken nena
-106,to fear,"pilin ike, monsuta"
-107,to sleep,lape
-108,to live,"awen, lon"
-109,to die,moli
-110,to kill,moli
-111,to fight,utala
-112,to hunt,alasa
-113,to hit,utala
-114,to cut,"tu, kipisi"
-115,to split,"tu, kipisi"
-116,to stab,"utala kepeken palisa, kipisi"
-117,to scratch,pakala kepeken luka
-118,to dig,pali e lupa
-119,to swim,tawa lon telo
-120,to fly,tawa lon kon
-121,to walk,tawa kepeken noka
-122,to come,kama
-123,to lie (as in a bed),lon
-124,to sit,lon
-125,to stand,lon
-126,to turn (intransitive),tawa sike
-127,to fall,(tawa) anpa
-128,to give,pana
-129,to hold,jo
-130,to squeeze,lili e ijo kepeken wawa
-131,to rub,luka
-132,to wash,telo
-133,to wipe,utala
-134,to pull,kama
-135,to push,pana
-136,to throw,pana
-137,to tie,wan
-138,to sew,pali e len kepeken linja
-139,to count,nanpa
-140,to say,toki
-141,to sing,kalama musi
-142,to play,musi
-143,to float,awen lon sewi telo
-144,to flow,tawa
-145,to freeze,lete
-146,to swell,kama suli
-147,sun,suno
-148,moon,mun
-149,star,mun
-150,water,telo
-151,rain,telo sewi
-152,river,"telo tawa (linja), telo nasin"
-153,lake,telo (suli)
-154,sea,telo (suli)
-155,salt,"ko, namako"
-156,stone,kiwen
-157,sand,ko
-158,dust,ko
-159,earth,ma
-160,cloud,ijo walo sewi
-161,fog,kon
-162,sky,sewi
-163,wind,kon
-164,snow,ko walo lete
-165,ice,kiwen telo
-166,smoke,kon (pimeja) (seli)
-167,fire,seli
-168,ash,ko seli
-169,to burn,seli
-170,road,nasin
-171,mountain,nena
-172,red,loje
-173,green,laso
-174,yellow,jelo
-175,white,walo
-176,black,pimeja
-177,night,tenpo pimeja
-178,day,tenpo suno
-179,year,tenpo sike (suno)
-180,warm,seli
-181,cold,lete
-182,full,"jo e ijo mute, pi ijo mute"
-183,new,sin
-184,old,sin ala
-185,good,pona
-186,bad,ike
-187,rotten,jaki
-188,dirty,jaki
-189,straight,sama palisa
-190,round,sike
-191,sharp (as a knife),kipisi
-192,dull (as a knife),kipisi ala
-193,smooth,nena ala
-194,wet,telo
-195,dry,telo ala
-196,correct,pona
-197,near,lon poka
-198,far,weka
-199,right,poka
-200,left,poka
-201,at,lon
-202,in,lon insa
-203,with,"kepeken, lon poka"
-204,and,"en, li, e"
-205,if,la
-206,because,tan
-207,name,nimi
+ID,Word, Alternative, Definition
+0,a,kin,"PARTICLE (emphasis, emotion, or confirmation)"
+1,akesi,,"NOUN non-cute animal; reptile, amphibian"
+2,ala,,"ADJECTIVE no, not, zero"
+3,alasa,,"VERB to hunt, forage"
+4,ale,ali,"ADJECTIVE all; abundant, countless, bountiful, every, plentiful NOUN abundance, everything, life, universe NUMBER 100"
+5,anpa,,"ADJECTIVE bowing down, downward, humble, lowly, dependent"
+6,ante,,"ADJECTIVE different, altered, changed, other"
+7,anu,,"PARTICLE or"
+8,awen,,"ADJECTIVE enduring, kept, protected, safe, waiting, staying PRE-VERB to continue to"
+9,e,,PARTICLE (before the direct object)
+10,en,,PARTICLE (between multiple subjects)
+11,esun,,"NOUN market, shop, fair, bazaar, business transaction"
+12,ijo,,"NOUN thing, phenomenon, object, matter"
+13,ike,,"ADJECTIVE bad, negative; non-essential, irrelevant"
+14,ilo,,"NOUN tool, implement, machine, device"
+15,insa,,"NOUN centre, content, inside, between; internal organ, stomach"
+16,jaki,,"ADJECTIVE disgusting, obscene, sickly, toxic, unclean, unsanitary"
+17,jan,,"NOUN human being, person, somebody"
+18,jelo,,"ADJECTIVE yellow, yellowish"
+19,jo,,"VERB to have, carry, contain, hold"
+20,kala,,"NOUN fish, marine animal, sea creature"
+21,kalama,,"VERB to produce a sound; recite, utter aloud"
+22,kama,,"ADJECTIVE arriving, coming, future, summoned PRE-VERB to become, manage to, succeed in"
+23,kasi,,"NOUN plant, vegetation, herb, leaf"
+24,ken,,"PRE-VERB to be able to, be allowed to, can, may ADJECTIVE possible"
+25,kepeken,,"PREPOSITION to use, with, by means of"
+26,kili,,"NOUN fruit, vegetable, mushroom"
+27,kiwen,,"NOUN hard object, metal, rock, stone"
+28,ko,,"NOUN clay, clinging form, dough, semi-solid, paste, powder"
+29,kon,,"NOUN air, breath; essence, spirit; hidden reality, unseen agent"
+30,kule,,"ADJECTIVE colourful, pigmented, painted"
+31,kulupu,,"NOUN community, company, group, nation, society, tribe"
+32,kute,,"NOUN ear VERB to hear, listen; pay attention to, obey"
+33,la,,"PARTICLE (between the context phrase and the main sentence)"
+34,lape,,"ADJECTIVE sleeping, resting"
+35,laso,,"ADJECTIVE blue, green"
+36,lawa,,"NOUN head, mind VERB to control, direct, guide, lead, own, plan, regulate, rule"
+37,len,,"NOUN cloth, clothing, fabric, textile; cover, layer of privacy"
+38,lete,,"ADJECTIVE cold, cool; uncooked, raw"
+39,li,,"PARTICLE (between any subject except 'mi' alone or 'sina' alone and its verb; also to introduce a new verb for the same subject)"
+40,lili,,"ADJECTIVE little, small, short; few; a bit; young"
+41,linja,,"NOUN long and flexible thing; cord, hair, rope, thread, yarn"
+42,lipu,,"NOUN flat object; book, document, card, paper, record, website"
+43,loje,,"ADJECTIVE red, reddish"
+44,lon,,"PREPOSITION located at, present at, real, true, existing"
+45,luka,,"NOUN arm, hand, tactile organ NUMBER five"
+46,lukin,oko,"NOUN eye VERB to look at, see, examine, observe, read, watch PRE-VERB to seek, look for, try to"
+47,lupa,,"NOUN door, hole, orifice, window"
+48,ma,,"NOUN earth, land; outdoors, world; country, territory; soil"
+49,mama,,"NOUN parent, ancestor; creator, originator; caretaker, sustainer"
+50,mani,,"NOUN money, cash, savings, wealth; large domesticated animal"
+51,meli,,"NOUN woman, female, feminine person; wife"
+52,mi,,"NOUN I, me, we, us"
+53,mije,,"NOUN man, male, masculine person; husband"
+54,moku,,"VERB to eat, drink, consume, swallow, ingest"
+55,moli,,"ADJECTIVE dead, dying"
+56,monsi,,"NOUN back, behind, rear"
+57,mu,,"PARTICLE (animal noise or communication)"
+58,mun,,"NOUN moon, night sky object, star"
+59,musi,,"ADJECTIVE artistic, entertaining, frivolous, playful, recreational"
+60,mute,,"ADJECTIVE many, a lot, more, much, several, very NOUN quantity"
+61,nanpa,,"PARTICLE -th (ordinal number) NOUN numbers"
+62,nasa,,"ADJECTIVE unusual, strange; foolish, crazy; drunk, intoxicated"
+63,nasin,,"NOUN way, custom, doctrine, method, path, road"
+64,nena,,"NOUN bump, button, hill, mountain, nose, protuberance"
+65,ni,,"ADJECTIVE that, this"
+66,nimi,,"NOUN name, word"
+67,noka,,"NOUN foot, leg, organ of locomotion; bottom, lower part"
+68,o,,"PARTICLE hey! O! (vocative or imperative)"
+69,olin,,"VERB to love, have compassion for, respect, show affection to"
+70,ona,,"NOUN he, she, it, they"
+71,open,,"VERB to begin, start; open; turn on"
+72,pakala,,"ADJECTIVE botched, broken, damaged, harmed, messed up"
+73,pali,,"VERB to do, take action on, work on; build, make, prepare"
+74,palisa,,"NOUN long hard thing; branch, rod, stick"
+75,pan,,"NOUN cereal, grain; barley, corn, oat, rice, wheat; bread, pasta"
+76,pana,,"VERB to give, send, emit, provide, put, release"
+77,pi,,"PARTICLE of"
+78,pilin,,"NOUN heart (physical or emotional) ADJECTIVE feeling (an emotion, a direct experience)"
+79,pimeja,,"ADJECTIVE black, dark, unlit"
+80,pini,,"ADJECTIVE ago, completed, ended, finished, past"
+81,pipi,,"NOUN bug, insect, ant, spider"
+82,poka,,"NOUN hip, side; next to, nearby, vicinity"
+83,poki,,"NOUN container, bag, bowl, box, cup, cupboard, drawer, vessel"
+84,pona,,"ADJECTIVE good, positive, useful; friendly, peaceful; simple"
+85,pu,,"ADJECTIVE interacting with the official Toki Pona book"
+86,sama,,"ADJECTIVE same, similar; each other; sibling, peer, fellow PREPOSITION as, like"
+87,seli,,"ADJECTIVE fire; cooking element, chemical reaction, heat source"
+88,selo,,"NOUN outer form, outer layer; bark, peel, shell, skin; boundary"
+89,seme,,"PARTICLE what? which?"
+90,sewi,,"NOUN area above, highest part, something elevated ADJECTIVE awe-inspiring, divine, sacred, supernatural"
+91,sijelo,,"NOUN body (of person or animal), physical state, torso"
+92,sike,,"NOUN round or circular thing; ball, circle, cycle, sphere, wheel ADJECTIVE of one year"
+93,sin,namako,"new, fresh; additional, another, extra"
+94,sina,,NOUN you
+95,sinpin,,"NOUN face, foremost, front, wall"
+96,sitelen,,"NOUN image, picture, representation, symbol, mark, writing"
+97,sona,,"VERB to know, be skilled in, be wise about, have information on PRE-VERB to know how to"
+98,soweli,,"NOUN animal, beast, land mammal"
+99,suli,,"ADJECTIVE big, heavy, large, long, tall; important; adult"
+100,suno,,"NOUN sun; light, brightness, glow, radiance, shine; light source"
+101,supa,,"NOUN horizontal surface, thing to put or rest something on"
+102,suwi,,"ADJECTIVE sweet, fragrant; cute, innocent, adorable"
+103,tan,,"PREPOSITION by, from, because of"
+104,taso,,"PARTICLE but, however ADJECTIVE only"
+105,tawa,,"PREPOSITION going to, toward; for; from the perspective of ADJECTIVE moving"
+106,telo,,"NOUN water, liquid, fluid, wet substance; beverage"
+107,tenpo,,"NOUN time, duration, moment, occation, period, situation"
+108,toki,,"VERB to communicate, say, speak, say, talk, use language, think"
+109,tomo,,"NOUN indoor space; building, home, house, room"
+110,tu,,"NUMBER two"
+111,unpa,,"VERB to have sexual or marital relations with"
+112,uta,,"NOUN mouth, lips, oral cavity, jaw"
+113,utala,,"VERB to battle, challenge, compete against, struggle against"
+114,walo,,"ADJECTIVE white, whitish; light-coloured, pale"
+115,wan,,"ADJECTIVE unique, united NUMBER one"
+116,waso,,"NOUN bird, flying creature, winged animal"
+117,wawa,,"ADJECTIVE strong, powerful; confident, sure; energetic, intense"
+118,weka,,"ADJECTIVE absent, away, ignored"
+119,wile,,"PRE-VERB must, need, require, should, want, wish"
